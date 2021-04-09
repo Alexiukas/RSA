@@ -7,6 +7,8 @@ public class Main {
     public static void main(String[] args) {
 
         RSA rsa = new RSA();
+        
+        // Test comments
 
         while(true){
             System.out.println("What would you like to do?\n1.Encryption\n2.Decryption\n3.Generate keys");
